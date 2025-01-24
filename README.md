@@ -2,10 +2,8 @@
 <html>
 <body>
 
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
-
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
 </body>
 </html>
